@@ -31,4 +31,5 @@ I've used a translation program so far, but someday I want to write it myself.
 
 ## Get in touch
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skieae@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skieae@gmail.com "Send mail skieae@")
+[![Twitter](https://img.shields.io/badge/skieae-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/skieae "Go to @skieae")
