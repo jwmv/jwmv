@@ -6,7 +6,7 @@ I'm interested in studying how to solve problems and enjoy making the system str
 Of course, I am more interested in my health and hobbies on the premise that "a healthy body has a healthy mind."
 Usually, I train my physical strength while doing home fitness, and in winter, I play while snowboarding.
 
-## Things I code with 💻
+## 🎨Things I code with
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -18,18 +18,16 @@ Usually, I train my physical strength while doing home fitness, and in winter, I
 I work based on the APM stack. Technologies such as Docker, Nginx, and AWS' EC2, RDS, and S3 and Java Spring, Nodejs chat system, MQTT communication, and Vuejs are also used, but they are not at a level that can be controlled freely.
 I'm using both the backend and the frontend, so is it okay to introduce me as a full stack? Ha ha.
 
-## Things I plan with ⚙
+## 📌Things I plan with
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-In the near future, I would like to make a new start as an app developer. There must be a lot to learn, including not only Swift and Kotlin's grammar, but also UI/UX and coding conventions for new languages.
-It won't be easy, but I have to try.
+I'm going to learn JAVA and Spring according to Korean characteristics. The demand is so high that it seems to be the best choice.
+Only the programming language I use changes, and I think I will still remain a backend developer.
 
 And I'm going to study English, too!
 I've used a translation program so far, but someday I want to write it myself.
-
-## Get in touch
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skieae@gmail.com "Send mail to skieae@gmail.com")
-[![Twitter](https://img.shields.io/badge/devtwtt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/skieae "Go to @devtwtt")
